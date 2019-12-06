@@ -37,5 +37,4 @@
         <item name="android:textColor">@color/grey_button_color</item>
         <item name="colorControlHighlight">@color/skip_red_color</item>
     </style>
-
 </resources>
